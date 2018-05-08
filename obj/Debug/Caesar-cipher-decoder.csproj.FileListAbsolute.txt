@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Caesar-cipher-decoder\Caesar-cipher-decoder\obj\Debug\Caesar-cipher-decoder.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Caesar-cipher-decoder\Caesar-cipher-decoder\obj\Debug\Projekti_Siguria_te_dhenave.Properties.Resources.resources
+C:\Users\PC\Desktop\Caesar-cipher-decoder\Caesar-cipher-decoder\obj\Debug\Caesar-cipher-decoder.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Caesar-cipher-decoder\Caesar-cipher-decoder\obj\Debug\Caesar-cipher-decoder.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Caesar-cipher-decoder\Caesar-cipher-decoder\obj\Debug\Projekti_Siguria_te_dhenave.exe
+C:\Users\PC\Desktop\Caesar-cipher-decoder\Caesar-cipher-decoder\obj\Debug\Projekti_Siguria_te_dhenave.pdb
+C:\Users\PC\Desktop\Caesar-cipher-decoder\Caesar-cipher-decoder\obj\Debug\Projekti_Siguria_te_dhenave.BruteForce.resources
+C:\Users\PC\Desktop\Caesar-cipher-decoder\Caesar-cipher-decoder\obj\Debug\Projekti_Siguria_te_dhenave.Kryesore.resources
+C:\Users\PC\Desktop\Caesar-cipher-decoder\Caesar-cipher-decoder\obj\Debug\Projekti_Siguria_te_dhenave.DictionaryAttack.resources
+C:\Users\PC\Desktop\Caesar-cipher-decoder\Caesar-cipher-decoder\obj\Debug\Projekti_Siguria_te_dhenave.LetterFrequency.resources
+C:\Users\PC\Desktop\Caesar-cipher-decoder\Caesar-cipher-decoder\bin\Debug\Projekti_Siguria_te_dhenave.exe.config
+C:\Users\PC\Desktop\Caesar-cipher-decoder\Caesar-cipher-decoder\bin\Debug\Projekti_Siguria_te_dhenave.exe
+C:\Users\PC\Desktop\Caesar-cipher-decoder\Caesar-cipher-decoder\bin\Debug\Projekti_Siguria_te_dhenave.pdb
+C:\Users\PC\Desktop\Caesar-cipher-decoder\Caesar-cipher-decoder\obj\Debug\Projekti_Siguria_te_dhenave.About.resources

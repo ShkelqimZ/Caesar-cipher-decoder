@@ -1,0 +1,42 @@
+C:\Users\Administrator\Desktop\Projekti_Siguria_te_dhenave\Projekti_Siguria_te_dhenave\bin\Debug\Projekti_Siguria_te_dhenave.exe.config
+C:\Users\Administrator\Desktop\Projekti_Siguria_te_dhenave\Projekti_Siguria_te_dhenave\bin\Debug\Projekti_Siguria_te_dhenave.exe
+C:\Users\Administrator\Desktop\Projekti_Siguria_te_dhenave\Projekti_Siguria_te_dhenave\bin\Debug\Projekti_Siguria_te_dhenave.pdb
+C:\Users\Administrator\Desktop\Projekti_Siguria_te_dhenave\Projekti_Siguria_te_dhenave\obj\Debug\Projekti_Siguria_te_dhenave.BruteForce.resources
+C:\Users\Administrator\Desktop\Projekti_Siguria_te_dhenave\Projekti_Siguria_te_dhenave\obj\Debug\Projekti_Siguria_te_dhenave.Kryesore.resources
+C:\Users\Administrator\Desktop\Projekti_Siguria_te_dhenave\Projekti_Siguria_te_dhenave\obj\Debug\Projekti_Siguria_te_dhenave.DictionaryAttack.resources
+C:\Users\Administrator\Desktop\Projekti_Siguria_te_dhenave\Projekti_Siguria_te_dhenave\obj\Debug\Projekti_Siguria_te_dhenave.LetterFrequency.resources
+C:\Users\Administrator\Desktop\Projekti_Siguria_te_dhenave\Projekti_Siguria_te_dhenave\obj\Debug\Projekti_Siguria_te_dhenave.PerNe.resources
+C:\Users\Administrator\Desktop\Projekti_Siguria_te_dhenave\Projekti_Siguria_te_dhenave\obj\Debug\Projekti_Siguria_te_dhenave.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Projekti_Siguria_te_dhenave\Projekti_Siguria_te_dhenave\obj\Debug\Projekti_Siguria_te_dhenave.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Projekti_Siguria_te_dhenave\Projekti_Siguria_te_dhenave\obj\Debug\Projekti_Siguria_te_dhenave.exe
+C:\Users\Administrator\Desktop\Projekti_Siguria_te_dhenave\Projekti_Siguria_te_dhenave\obj\Debug\Projekti_Siguria_te_dhenave.pdb
+C:\Users\Administrator\Desktop\Semestri4\Siguria e të dhënave\Projekti_Siguria_te_dhenave_GR2\Projekti_Siguria_te_dhenave\bin\Debug\Projekti_Siguria_te_dhenave.exe.config
+C:\Users\Administrator\Desktop\Semestri4\Siguria e të dhënave\Projekti_Siguria_te_dhenave_GR2\Projekti_Siguria_te_dhenave\obj\Debug\Projekti_Siguria_te_dhenave.exe
+C:\Users\Administrator\Desktop\Semestri4\Siguria e të dhënave\Projekti_Siguria_te_dhenave_GR2\Projekti_Siguria_te_dhenave\obj\Debug\Projekti_Siguria_te_dhenave.pdb
+C:\Users\Administrator\Desktop\Semestri4\Siguria e të dhënave\Projekti_Siguria_te_dhenave_GR2\Projekti_Siguria_te_dhenave\bin\Debug\Projekti_Siguria_te_dhenave.exe
+C:\Users\Administrator\Desktop\Semestri4\Siguria e të dhënave\Projekti_Siguria_te_dhenave_GR2\Projekti_Siguria_te_dhenave\bin\Debug\Projekti_Siguria_te_dhenave.pdb
+C:\Users\Administrator\Desktop\Semestri4\Siguria e të dhënave\Projekti_Siguria_te_dhenave_GR2\Projekti_Siguria_te_dhenave\obj\Debug\Projekti_Siguria_te_dhenave.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Semestri4\Siguria e të dhënave\Projekti_Siguria_te_dhenave_GR2\Projekti_Siguria_te_dhenave\obj\Debug\Projekti_Siguria_te_dhenave.BruteForce.resources
+C:\Users\Administrator\Desktop\Semestri4\Siguria e të dhënave\Projekti_Siguria_te_dhenave_GR2\Projekti_Siguria_te_dhenave\obj\Debug\Projekti_Siguria_te_dhenave.Kryesore.resources
+C:\Users\Administrator\Desktop\Semestri4\Siguria e të dhënave\Projekti_Siguria_te_dhenave_GR2\Projekti_Siguria_te_dhenave\obj\Debug\Projekti_Siguria_te_dhenave.DictionaryAttack.resources
+C:\Users\Administrator\Desktop\Semestri4\Siguria e të dhënave\Projekti_Siguria_te_dhenave_GR2\Projekti_Siguria_te_dhenave\obj\Debug\Projekti_Siguria_te_dhenave.LetterFrequency.resources
+C:\Users\Administrator\Desktop\Semestri4\Siguria e të dhënave\Projekti_Siguria_te_dhenave_GR2\Projekti_Siguria_te_dhenave\obj\Debug\Projekti_Siguria_te_dhenave.PerNe.resources
+C:\Users\Administrator\Desktop\Semestri4\Siguria e të dhënave\Projekti_Siguria_te_dhenave_GR2\Projekti_Siguria_te_dhenave\obj\Debug\Projekti_Siguria_te_dhenave.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Semestri4\Siguria e të dhënave\Projekti_Siguria_te_dhenave_GR2\Projekti_Siguria_te_dhenave\obj\Debug\Projekti_Siguria_te_dhenave.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\FIEK\Viti II\Semestri4\Siguria e të dhënave\Projekti_Siguria_te_dhenave_GR2\Projekti_Siguria_te_dhenave\bin\Debug\Projekti_Siguria_te_dhenave.exe.config
+C:\Users\Administrator\Desktop\FIEK\Viti II\Semestri4\Siguria e të dhënave\Projekti_Siguria_te_dhenave_GR2\Projekti_Siguria_te_dhenave\obj\Debug\Projekti_Siguria_te_dhenave.exe
+C:\Users\Administrator\Desktop\FIEK\Viti II\Semestri4\Siguria e të dhënave\Projekti_Siguria_te_dhenave_GR2\Projekti_Siguria_te_dhenave\obj\Debug\Projekti_Siguria_te_dhenave.pdb
+C:\Users\PC\Desktop\FIEK\Viti II\Semestri4\Siguria e të dhënave\Projekti_Siguria_te_dhenave_GR2\Projekti_Siguria_te_dhenave\bin\Debug\Projekti_Siguria_te_dhenave.exe.config
+C:\Users\PC\Desktop\FIEK\Viti II\Semestri4\Siguria e të dhënave\Projekti_Siguria_te_dhenave_GR2\Projekti_Siguria_te_dhenave\obj\Debug\Projekti_Siguria_te_dhenave.exe
+C:\Users\PC\Desktop\FIEK\Viti II\Semestri4\Siguria e të dhënave\Projekti_Siguria_te_dhenave_GR2\Projekti_Siguria_te_dhenave\obj\Debug\Projekti_Siguria_te_dhenave.pdb
+C:\Users\PC\Desktop\FIEK\Viti II\Semestri4\Siguria e të dhënave\Projekti_Siguria_te_dhenave_GR2\Projekti_Siguria_te_dhenave\bin\Debug\Projekti_Siguria_te_dhenave.exe
+C:\Users\PC\Desktop\FIEK\Viti II\Semestri4\Siguria e të dhënave\Projekti_Siguria_te_dhenave_GR2\Projekti_Siguria_te_dhenave\bin\Debug\Projekti_Siguria_te_dhenave.pdb
+C:\Users\PC\Desktop\FIEK\Viti II\Semestri4\Siguria e të dhënave\Projekti_Siguria_te_dhenave_GR2\Projekti_Siguria_te_dhenave\obj\Debug\Projekti_Siguria_te_dhenave.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\FIEK\Viti II\Semestri4\Siguria e të dhënave\Projekti_Siguria_te_dhenave_GR2\Projekti_Siguria_te_dhenave\obj\Debug\Projekti_Siguria_te_dhenave.BruteForce.resources
+C:\Users\PC\Desktop\FIEK\Viti II\Semestri4\Siguria e të dhënave\Projekti_Siguria_te_dhenave_GR2\Projekti_Siguria_te_dhenave\obj\Debug\Projekti_Siguria_te_dhenave.Kryesore.resources
+C:\Users\PC\Desktop\FIEK\Viti II\Semestri4\Siguria e të dhënave\Projekti_Siguria_te_dhenave_GR2\Projekti_Siguria_te_dhenave\obj\Debug\Projekti_Siguria_te_dhenave.DictionaryAttack.resources
+C:\Users\PC\Desktop\FIEK\Viti II\Semestri4\Siguria e të dhënave\Projekti_Siguria_te_dhenave_GR2\Projekti_Siguria_te_dhenave\obj\Debug\Projekti_Siguria_te_dhenave.LetterFrequency.resources
+C:\Users\PC\Desktop\FIEK\Viti II\Semestri4\Siguria e të dhënave\Projekti_Siguria_te_dhenave_GR2\Projekti_Siguria_te_dhenave\obj\Debug\Projekti_Siguria_te_dhenave.PerNe.resources
+C:\Users\PC\Desktop\FIEK\Viti II\Semestri4\Siguria e të dhënave\Projekti_Siguria_te_dhenave_GR2\Projekti_Siguria_te_dhenave\obj\Debug\Projekti_Siguria_te_dhenave.Properties.Resources.resources
+C:\Users\PC\Desktop\FIEK\Viti II\Semestri4\Siguria e të dhënave\Projekti_Siguria_te_dhenave_GR2\Projekti_Siguria_te_dhenave\obj\Debug\Projekti_Siguria_te_dhenave.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\FIEK\Viti II\Semestri4\Siguria e të dhënave\Projekti_Siguria_te_dhenave_GR2\Projekti_Siguria_te_dhenave\obj\Debug\Projekti_Siguria_te_dhenave.csproj.CoreCompileInputs.cache
